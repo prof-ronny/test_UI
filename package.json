@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "node teste_google.js"
+  },
+
+  "dependencies": {
+    "playwright": "^1.44.0"
+  }
+}
